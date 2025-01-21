@@ -1,13 +1,10 @@
 import requests
 import json
-import toml
 
-SECRET = toml.load('secrets.toml')
-
-def categorize(resource, user_profile):
+def categorize(key,resource, user_profile):
     url = "https://api.wetrocloud.com/v1/category/"
     headers = {
-        "Authorization": f"Token {SECRET['wetro_api_key']}",
+        "Authorization": f"Token {key}",
     }
     jsonres ={
         "isValid":"boolean",
@@ -25,10 +22,10 @@ def categorize(resource, user_profile):
     print(response.json())
     return response.json()['response']
 
-def scrape(website):
+def scrape(key,website):
     url = "https://api.wetrocloud.com/v1/scrape/"
     headers = {
-        "Authorization": f"Token {SECRET['wetro_api_key']}",
+        "Authorization": f"Token {key}",
     }
     jsonres = {
         "listing_name":"string",
@@ -66,10 +63,10 @@ def scrape(website):
     return response.json()
 
 
-def generate_rules(resource, user_profile):
+def generate_rules(key,resource, user_profile):
     url = "https://api.wetrocloud.com/v1/category/"
     headers = {
-        "Authorization": f"Token {SECRET['wetro_api_key']}",
+        "Authorization": f"Token {key}",
     }
     jsonres ={
         "isValid":"boolean",
@@ -88,8 +85,4 @@ def generate_rules(resource, user_profile):
     return response.json()['response']
 
 
-def main():
-    scrape("https://www.airbnb.com/rooms/49634404")
-
-if __name__ == "__main__":
     main()

@@ -2,6 +2,7 @@ import streamlit as st
 import json
 from index import categorize
 
+SECRET = st.secrets["wetro_api_key"]
 # Set page configuration
 st.set_page_config(
     page_title="Profile Validator",
@@ -67,7 +68,7 @@ if st.button("Validate Profile", type="primary"):
     if rules and profile:
         with st.spinner("Validating profile..."):
             try:
-                result = categorize(rules, profile)
+                result = categorize(SECRET,rules, profile)
                 
                 # Display results in a nice format
                 if result['isValid']:
