@@ -1,10 +1,13 @@
 import requests
 import json
+import toml
+
+SECRET = toml.load('secrets.toml')
 
 def categorize(resource, user_profile):
     url = "https://api.wetrocloud.com/v1/category/"
     headers = {
-        "Authorization": "Token wtc-sk-8f956b955c76a1049aa87b11e5f589104baf7e73",
+        "Authorization": f"Token {SECRET['wetro_api_key']}",
     }
     jsonres ={
         "isValid":"boolean",
@@ -25,7 +28,7 @@ def categorize(resource, user_profile):
 def scrape(website):
     url = "https://api.wetrocloud.com/v1/scrape/"
     headers = {
-        "Authorization": "Token wtc-sk-8f956b955c76a1049aa87b11e5f589104baf7e73",
+        "Authorization": f"Token {SECRET['wetro_api_key']}",
     }
     jsonres = {
         "listing_name":"string",
@@ -61,6 +64,29 @@ def scrape(website):
     response = requests.post(url, headers=headers, json=data)
     print(response.json())
     return response.json()
+
+
+def generate_rules(resource, user_profile):
+    url = "https://api.wetrocloud.com/v1/category/"
+    headers = {
+        "Authorization": f"Token {SECRET['wetro_api_key']}",
+    }
+    jsonres ={
+        "isValid":"boolean",
+        "likelihood":"%",
+        "reasonExplanation":"string"
+    }
+    data = {
+        "resource": f"Here are the rules and requirements for the user profile: {resource}",
+        "type": "text",
+        "json_schema": jsonres,
+        "json_schema_rules": f"Validate the user profile {user_profile}"
+    }
+
+    response = requests.post(url, headers=headers, json=data)
+    print(response.json())
+    return response.json()['response']
+
 
 def main():
     scrape("https://www.airbnb.com/rooms/49634404")
