@@ -28,8 +28,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Header
-st.title("✨ Profile Validator")
-st.markdown("### Validate user profiles against specific rules")
+st.title("✨ Listing Validator")
+st.markdown("### Validate airbnb listings against specific rules")
 
 # Create two columns for input
 col1, col2 = st.columns(2)
