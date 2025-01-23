@@ -35,38 +35,31 @@ st.markdown("### Validate user profiles against specific rules")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.subheader("Rules & Requirements")
-    rules = st.text_area(
-        "Enter the rules and requirements",
-        height=200,
-        placeholder="Example:\n- Must be 18 or older\n- Must have valid email\n- Must have complete address"
+    st.subheader("Listing Address")
+    rules = st.text_input(
+        "Enter the listing address",
+        placeholder="Example: 123 Main St, City, Country"
     )
 
 with col2:
-    st.subheader("User Profile")
-    profile = st.text_area(
-        "Enter the user profile details",
-        height=200,
-        placeholder="""Example:
-        Name: John Doe
-        Age: 25
-        Email: john@example.com
-        Address: 123 Main St, City, Country
-        Phone: +1-234-567-8900"""
+    st.subheader("Airbnb Listing")
+    profile = st.text_input(
+        "Enter the airbnb listing details",
+        placeholder="""Example: https://www.airbnb.com/rooms/000000"""
     )
 
 # Add some helpful instructions
 st.info("""
 📝 **How to use:**
-1. Enter your rules/requirements on the left
-2. Enter the user profile details as plain text on the right
-3. Click 'Validate Profile' to check if the profile meets the requirements
+1. Enter the listing address on the left
+2. Enter the airbnb listing url on the right
+3. Click 'Validate Listing' to check if the listing meets the requirements
 """)
 
 # Validate button
-if st.button("Validate Profile", type="primary"):
+if st.button("Validate Listing", type="primary"):
     if rules and profile:
-        with st.spinner("Validating profile..."):
+        with st.spinner("Validating listing..."):
             try:
                 result = categorize(SECRET,rules, profile)
                 
