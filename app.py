@@ -77,7 +77,7 @@ if st.button("Validate Profile", type="primary"):
                     st.error("Profile Validation Result")
                 
                 # Create three columns for results
-                res_col1, res_col2, res_col3 = st.columns(3)
+                res_col1, res_col2 = st.columns(2)
                 
                 with res_col1:
                     st.metric("Valid", "Yes" if result['isValid'] else "No")
@@ -85,9 +85,8 @@ if st.button("Validate Profile", type="primary"):
                 with res_col2:
                     st.metric("Likelihood", result['likelihood'])
                 
-                with res_col3:
-                    st.markdown("### Explanation")
-                    st.info(result['reasonExplanation'])
+                st.markdown("### Explanation")
+                st.info(result['reasonExplanation'])
                 
             except Exception as e:
                 st.error(f"An error occurred: {str(e)}")
