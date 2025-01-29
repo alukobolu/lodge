@@ -1,0 +1,702 @@
+[
+    {
+        "License Number": "VRR-2024-1099",
+        "Property Address": "470 FOX DR",
+        "Expiration Date": "7/18/2025",
+        "Property Management Company": "Frederick",
+        "Property Owner Name": "Grether GRETHER,F W FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2279",
+        "Property Address": "470 SHADY LN",
+        "Expiration Date": "11/18/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear LLAMAS,CESAR"
+    },
+    {
+        "License Number": "VRR-2024-0547",
+        "Property Address": "470 VISTA LN",
+        "Expiration Date": "1/29/2025",
+        "Property Management Company": "Carlos",
+        "Property Owner Name": "Rodriguez and Marilola Derkum Carlos Rodriguez and Marilola Derkum"
+    },
+    {
+        "License Number": "VRR-2024-1538",
+        "Property Address": "472 MORNINGSTAR DR",
+        "Expiration Date": "9/10/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear HARRIS,MICHAEL & SYLVIA"
+    },
+    {
+        "License Number": "VRR-2024-2500",
+        "Property Address": "472 Temple Ln",
+        "Expiration Date": "10/30/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Harry Galajian and Hasmik Galadzhyan"
+    },
+    {
+        "License Number": "VRR-2024-0430",
+        "Property Address": "472 WINDSONG PL",
+        "Expiration Date": "4/27/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear WILSON,MICHAEL D"
+    },
+    {
+        "License Number": "VRR-2024-0309",
+        "Property Address": "473 CATALINA RD",
+        "Expiration Date": "3/18/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Valley Management SKULLERUD,KAREN LEE"
+    },
+    {
+        "License Number": "VRR-2024-0891",
+        "Property Address": "473 CHIPMUNK LN",
+        "Expiration Date": "6/9/2025",
+        "Property Management Company": "David",
+        "Property Owner Name": "Heyman and Kenneth Townsend David Heyman and Kenneth Townsend"
+    },
+    {
+        "License Number": "VRR-2024-0332",
+        "Property Address": "473 CIENEGA RD",
+        "Expiration Date": "4/9/2025",
+        "Property Management Company": "Monster",
+        "Property Owner Name": "Properties GREEP,ROBERT & LYNN"
+    },
+    {
+        "License Number": "VRR-2024-2195",
+        "Property Address": "473 Georgia St",
+        "Expiration Date": "10/8/2025",
+        "Property Management Company": "Jorge",
+        "Property Owner Name": "and Mayra Cadengo Jorge and Mayra Cadengo"
+    },
+    {
+        "License Number": "VRR-2024-1348",
+        "Property Address": "473 VISTA LN",
+        "Expiration Date": "7/6/2025",
+        "Property Management Company": "Meredith",
+        "Property Owner Name": "Lodging Southern CA LLC CHAPMAN,CHARLES"
+    },
+    {
+        "License Number": "VRR-2024-0710",
+        "Property Address": "474 LAKEWOOD LN",
+        "Expiration Date": "6/8/2025",
+        "Property Management Company": "Tuyet",
+        "Property Owner Name": "Nguyen and Kent Brostroem The BNR Family Trust"
+    },
+    {
+        "License Number": "VRR-2024-2118",
+        "Property Address": "476 STARLIGHT CIR",
+        "Expiration Date": "11/1/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear SCHRANER,ROBERT K & VICKI L"
+    },
+    {
+        "License Number": "VRR-2024-2114",
+        "Property Address": "477 TEMPLE LN",
+        "Expiration Date": "10/1/2025",
+        "Property Management Company": "Dudley",
+        "Property Owner Name": "Pflaum PFLAUM,DUDLEY T TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2234",
+        "Property Address": "478 LAKEVIEW CT",
+        "Expiration Date": "10/17/2025",
+        "Property Management Company": "Steve",
+        "Property Owner Name": "Avetyan and Talina Ghazarian Steve Avetyan and Talina Ghazarian"
+    },
+    {
+        "License Number": "VRR-2024-0353",
+        "Property Address": "479 TENNESSEE ST",
+        "Expiration Date": "4/4/2025",
+        "Property Management Company": "Sage",
+        "Property Owner Name": "Management PROCHNOW,KENNETH"
+    },
+    {
+        "License Number": "VRR-2024-2582",
+        "Property Address": "480 CRYSTAL LAKE RD",
+        "Expiration Date": "12/11/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear ALAS,ORLANDO & EDILMA"
+    },
+    {
+        "License Number": "VRR-2024-0248",
+        "Property Address": "481 Lakewood Ln.",
+        "Expiration Date": "2/4/2025",
+        "Property Management Company": "Robert",
+        "Property Owner Name": "and Maria Rosa Robert and Maria Rosa"
+    },
+    {
+        "License Number": "VRR-2024-1068",
+        "Property Address": "481 STARLIGHT CIR",
+        "Expiration Date": "5/10/2025",
+        "Property Management Company": "Henry",
+        "Property Owner Name": "Chen, Jie He, Anni Wei and Katherine He MAJC HOUSE LLC"
+    },
+    {
+        "License Number": "VRR-2024-0421",
+        "Property Address": "481 TAVERN LN",
+        "Expiration Date": "3/11/2025",
+        "Property Management Company": "Jason",
+        "Property Owner Name": "and Christina Sharman Jason and Christina Sharman"
+    },
+    {
+        "License Number": "VRR-2024-2140",
+        "Property Address": "481 TEMPLE LN",
+        "Expiration Date": "10/30/2025",
+        "Property Management Company": "Daniel",
+        "Property Owner Name": "& Kera Montoya MONTOYA,DANIEL J"
+    },
+    {
+        "License Number": "VRR-2024-1123",
+        "Property Address": "482 LAKEVIEW CT",
+        "Expiration Date": "7/9/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear GORWIT FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2840",
+        "Property Address": "482 TAVERN LN",
+        "Expiration Date": "12/23/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Brian and Valerie Hill"
+    },
+    {
+        "License Number": "VRR-2024-1678",
+        "Property Address": "483 CIENEGA RD",
+        "Expiration Date": "10/6/2025",
+        "Property Management Company": "Miranda",
+        "Property Owner Name": "Kwok HOME SWEET LAKE HOME LLC"
+    },
+    {
+        "License Number": "VRR-2024-0868",
+        "Property Address": "484 CATALINA RD",
+        "Expiration Date": "5/31/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins PHUNG,TONY"
+    },
+    {
+        "License Number": "VRR-2024-0805",
+        "Property Address": "487 LAKEVIEW CT",
+        "Expiration Date": "6/22/2025",
+        "Property Management Company": "SoCal",
+        "Property Owner Name": "Vacations NOISEUX HOMER,VICKIE"
+    },
+    {
+        "License Number": "VRR-2024-1293",
+        "Property Address": "488 STARLIGHT CIR",
+        "Expiration Date": "8/26/2025",
+        "Property Management Company": "Chengxiang",
+        "Property Owner Name": "and Vivien Xiang 488STARLIGHT LLC"
+    },
+    {
+        "License Number": "VRR-2024-1831",
+        "Property Address": "489 CATALINA RD",
+        "Expiration Date": "10/19/2025",
+        "Property Management Company": "Peter",
+        "Property Owner Name": "& Ciri Ellis PETER D ELLIS"
+    },
+    {
+        "License Number": "VRR-2024-0301",
+        "Property Address": "489 EDGEMOOR RD",
+        "Expiration Date": "2/22/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins ANDELKOVIC FAMILY TRUST B"
+    },
+    {
+        "License Number": "VRR-2024-2245",
+        "Property Address": "490 Vista Ln.",
+        "Expiration Date": "10/11/2025",
+        "Property Management Company": "Chandrasekhar",
+        "Property Owner Name": "Sundarraman and Srilekha Krishnamurthy Chandrasekhar Sundarraman and Srilekha Krishnamurthy"
+    },
+    {
+        "License Number": "VRR-2024-1718",
+        "Property Address": "493 CATALINA RD",
+        "Expiration Date": "8/23/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins NEWALL,JAMISON"
+    },
+    {
+        "License Number": "VRR-2024-1691",
+        "Property Address": "494 LAKEVIEW CT",
+        "Expiration Date": "9/25/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins SOOHOO,LINDA & JEFFREY"
+    },
+    {
+        "License Number": "VRR-2024-2589",
+        "Property Address": "494 Lakewood Ln",
+        "Expiration Date": "11/7/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins Robert Wilson"
+    },
+    {
+        "License Number": "VRR-2024-2765",
+        "Property Address": "495 ECHO LN",
+        "Expiration Date": "12/22/2025",
+        "Property Management Company": "Candice",
+        "Property Owner Name": "Smith SMITH, CANDICE"
+    },
+    {
+        "License Number": "VRR-2024-0391",
+        "Property Address": "495 LAKEVIEW CT",
+        "Expiration Date": "4/6/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins CUNNINGHAM,THOMAS P"
+    },
+    {
+        "License Number": "VRR-2024-2665",
+        "Property Address": "499 WOODLAND WAY",
+        "Expiration Date": "12/18/2025",
+        "Property Management Company": "William,",
+        "Property Owner Name": "Joan, and Jerrilynn Ford Ford Family Trust"
+    },
+    {
+        "License Number": "VRR-2024-2335",
+        "Property Address": "501 CATALINA RD",
+        "Expiration Date": "10/7/2025",
+        "Property Management Company": "Admire",
+        "Property Owner Name": "and Zaida Simbarasi Admire and Zaida Simbarasi"
+    },
+    {
+        "License Number": "VRR-2024-1311",
+        "Property Address": "502 Lakewood Ln",
+        "Expiration Date": "7/20/2025",
+        "Property Management Company": "CA",
+        "Property Owner Name": "Mountain Rentals, LLC Erika Ramos and Maarten Van Segbroeck"
+    },
+    {
+        "License Number": "VRR-2024-1253",
+        "Property Address": "504 VISTA LN",
+        "Expiration Date": "8/20/2025",
+        "Property Management Company": "Kristina",
+        "Property Owner Name": "and Jason Steffen Kristina and Jason Steffen"
+    },
+    {
+        "License Number": "VRR-2023-2925",
+        "Property Address": "505 Echo (498 CHIPMUNK)",
+        "Expiration Date": "1/14/2025",
+        "Property Management Company": "Brant",
+        "Property Owner Name": "David Bass BRANT DAVID BASS"
+    },
+    {
+        "License Number": "VRR-2024-0786",
+        "Property Address": "505 WANITA LN",
+        "Expiration Date": "6/6/2025",
+        "Property Management Company": "John",
+        "Property Owner Name": "Green John R"
+    },
+    {
+        "License Number": "VRR-2024-1218",
+        "Property Address": "506 CATALINA RD",
+        "Expiration Date": "7/28/2025",
+        "Property Management Company": "Bear",
+        "Property Owner Name": "Vacation Rentals RISCO,CARLOS & HERMELINDA"
+    },
+    {
+        "License Number": "VRR-2024-2743",
+        "Property Address": "507 BLUE JAY RD",
+        "Expiration Date": "11/21/2025",
+        "Property Management Company": "Orlando",
+        "Property Owner Name": "Novoa and Kristen Myers-Novoa Myers-Novoa Family Trust"
+    },
+    {
+        "License Number": "VRR-2024-0733",
+        "Property Address": "507 LAKEVIEW CT",
+        "Expiration Date": "5/30/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Wade Cleveland and Tobi Foisy"
+    },
+    {
+        "License Number": "VRR-2024-1360",
+        "Property Address": "507 WOODLAND WAY",
+        "Expiration Date": "8/13/2025",
+        "Property Management Company": "Linda",
+        "Property Owner Name": "Hesley HESLEY,LINDA L"
+    },
+    {
+        "License Number": "VRR-2024-2878",
+        "Property Address": "508 VISTA LN",
+        "Expiration Date": "12/12/2025",
+        "Property Management Company": "Jose",
+        "Property Owner Name": "Manuel Villegas VILLEGAS, JOSE MANUEL"
+    },
+    {
+        "License Number": "VRR-2024-1392",
+        "Property Address": "510 TIMBER LN",
+        "Expiration Date": "8/24/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Adrienne Bullock and Brian Weber"
+    },
+    {
+        "License Number": "VRR-2024-1931",
+        "Property Address": "511 LAKEVIEW CT",
+        "Expiration Date": "10/30/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear AHARONOFF,DANIEL"
+    },
+    {
+        "License Number": "VRR-2024-1491",
+        "Property Address": "511 LAKEWOOD LN",
+        "Expiration Date": "9/12/2025",
+        "Property Management Company": "Mickey",
+        "Property Owner Name": "Lacoste LACOSTE,MICKEY"
+    },
+    {
+        "License Number": "VRR-2024-0701",
+        "Property Address": "513 CATALINA RD",
+        "Expiration Date": "6/5/2025",
+        "Property Management Company": "Sabraj",
+        "Property Owner Name": "Nijjar SUNSET XXIX LLC"
+    },
+    {
+        "License Number": "VRR-2024-1278",
+        "Property Address": "515 FOX DR",
+        "Expiration Date": "8/24/2025",
+        "Property Management Company": "Michael",
+        "Property Owner Name": "and Rosalie Lewandowski LEWANDOWSKI,MICHAEL & ROSALIE"
+    },
+    {
+        "License Number": "VRR-2024-2319",
+        "Property Address": "515 WAYNOKA LN",
+        "Expiration Date": "10/28/2025",
+        "Property Management Company": "Xavier",
+        "Property Owner Name": "Alex Rosales & Gabriela Orozco Xavier Alex Rosales & Gabriela Orozco"
+    },
+    {
+        "License Number": "VRR-2024-0085",
+        "Property Address": "516 Highland Rd.",
+        "Expiration Date": "8/30/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Victoria and Mark Steppan"
+    },
+    {
+        "License Number": "VRR-2024-0825",
+        "Property Address": "516 WANITA LN",
+        "Expiration Date": "4/26/2025",
+        "Property Management Company": "Jennifer",
+        "Property Owner Name": "and Jose Alvarez and Victoria Apodaca ALVAREZ,JENNIFER & JOSE ROBERTO & VICTORIA APODACA"
+    },
+    {
+        "License Number": "VRR-2024-0801",
+        "Property Address": "517 VISTA LN",
+        "Expiration Date": "6/7/2025",
+        "Property Management Company": "Ana",
+        "Property Owner Name": "and Reuben Trejo Ana and Reuben Trejo"
+    },
+    {
+        "License Number": "VRR-2024-0409",
+        "Property Address": "518 VISTA LN",
+        "Expiration Date": "2/28/2025",
+        "Property Management Company": "Savvy",
+        "Property Owner Name": "Bears Management, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2059",
+        "Property Address": "520 CATALINA RD",
+        "Expiration Date": "11/15/2025",
+        "Property Management Company": "Nathan",
+        "Property Owner Name": "and Julie Engelhardt ENGELHARDT,NATHAN"
+    },
+    {
+        "License Number": "VRR-2024-2436",
+        "Property Address": "523 PAINE CT",
+        "Expiration Date": "12/22/2025",
+        "Property Management Company": "AvantStay,",
+        "Property Owner Name": "Inc"
+    },
+    {
+        "License Number": "VRR-2024-2883",
+        "Property Address": "523 VISTA LN",
+        "Expiration Date": "1/7/2026",
+        "Property Management Company": "Jack",
+        "Property Owner Name": "Gorham GORHAM, JACK"
+    },
+    {
+        "License Number": "VRR-2024-1237",
+        "Property Address": "523 WAYNOKA LN",
+        "Expiration Date": "6/26/2025",
+        "Property Management Company": "Jose",
+        "Property Owner Name": "C Da Silva & Maria Fernanda Venturini DA SILVA,JOSE C"
+    },
+    {
+        "License Number": "VRR-2024-0468",
+        "Property Address": "524 CATALINA RD",
+        "Expiration Date": "3/31/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences Christian Angulo & Consuelo Falomir"
+    },
+    {
+        "License Number": "VRR-2024-2185",
+        "Property Address": "525 CIENEGA RD",
+        "Expiration Date": "11/7/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins ZARINS,KEVIN"
+    },
+    {
+        "License Number": "VRR-2024-0097",
+        "Property Address": "526 CATALINA RD",
+        "Expiration Date": "1/15/2025",
+        "Property Management Company": "Gilbert",
+        "Property Owner Name": "Lopez and Gerardo Aguirre Gilbert Lopez and Gerardo Aguirre"
+    },
+    {
+        "License Number": "VRR-2024-1853",
+        "Property Address": "526 TEMPLE LN",
+        "Expiration Date": "10/23/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear SCHWARTZFARB,AMOS"
+    },
+    {
+        "License Number": "VRR-2024-0491",
+        "Property Address": "527 GEORGIA ST",
+        "Expiration Date": "3/3/2025",
+        "Property Management Company": "Barret",
+        "Property Owner Name": "Randel and Angie Raskovic Barret Randel and Angie Raskovic"
+    },
+    {
+        "License Number": "VRR-2024-2372",
+        "Property Address": "527 WANITA LN",
+        "Expiration Date": "11/20/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins CIPOLONE,CARMEN RONALD JR"
+    },
+    {
+        "License Number": "VRR-2024-1477",
+        "Property Address": "528 COTTAGE LN Unit 1",
+        "Expiration Date": "8/16/2025",
+        "Property Management Company": "Awesome",
+        "Property Owner Name": "Vacation Rentals MENISH,WILLARD C"
+    },
+    {
+        "License Number": "VRR-2024-2451",
+        "Property Address": "528 Edgemoor Rd.",
+        "Expiration Date": "10/26/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Laylan Connelly Revocable Trust"
+    },
+    {
+        "License Number": "VRR-2024-1041",
+        "Property Address": "529 VISTA LN",
+        "Expiration Date": "7/13/2025",
+        "Property Management Company": "Habib",
+        "Property Owner Name": "Nazarzai NAZARZAI,HABIB"
+    },
+    {
+        "License Number": "VRR-2024-2549",
+        "Property Address": "530 CATALINA RD",
+        "Expiration Date": "11/5/2025",
+        "Property Management Company": "Mike",
+        "Property Owner Name": "Cayetano MADA A FRAME LLC"
+    },
+    {
+        "License Number": "VRR-2024-2139",
+        "Property Address": "530 WANITA LN",
+        "Expiration Date": "10/12/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins STOKES,DANIEL JAMES & MARTIZA"
+    },
+    {
+        "License Number": "VRR-2024-1070",
+        "Property Address": "531 GEORGIA ST",
+        "Expiration Date": "6/20/2025",
+        "Property Management Company": "Marc",
+        "Property Owner Name": "and Lydie Gutfeld Marc and Lydie Gutfeld"
+    },
+    {
+        "License Number": "VRR-2024-1432",
+        "Property Address": "531 WAYNOKA LN",
+        "Expiration Date": "7/31/2025",
+        "Property Management Company": "Sage",
+        "Property Owner Name": "Management Thanasis and Amy Garefis"
+    },
+    {
+        "License Number": "VRR-2024-1609",
+        "Property Address": "535 BADGER LN #533",
+        "Expiration Date": "8/12/2025",
+        "Property Management Company": "Bear",
+        "Property Owner Name": "Valley Cleaning 535 BADGER LLC"
+    },
+    {
+        "License Number": "VRR-2024-0952",
+        "Property Address": "535 TALMADGE RD",
+        "Expiration Date": "6/17/2025",
+        "Property Management Company": "Lukas",
+        "Property Owner Name": "and Suzannah de Kansky LUKAS PETER DE KANSKY, SUZANNAH BARBA DE KANSKY"
+    },
+    {
+        "License Number": "VRR-2024-2868",
+        "Property Address": "535 VISTA LN",
+        "Expiration Date": "12/10/2025",
+        "Property Management Company": "Savvy",
+        "Property Owner Name": "Bears Management, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0342",
+        "Property Address": "535 WANITA LN",
+        "Expiration Date": "3/26/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations ROBERTS,GREGORY W"
+    },
+    {
+        "License Number": "VRR-2024-2186",
+        "Property Address": "536 CATALINA RD",
+        "Expiration Date": "11/8/2025",
+        "Property Management Company": "Jennel",
+        "Property Owner Name": "and Heather David DAVID,HEATHER M & JENNEL E"
+    },
+    {
+        "License Number": "VRR-2024-1497",
+        "Property Address": "537 Edgemoor Rd.",
+        "Expiration Date": "7/15/2025",
+        "Property Management Company": "Little",
+        "Property Owner Name": "Bear Cabins CASTRO,WILLIAM RAFAEL JR"
+    },
+    {
+        "License Number": "VRR-2024-0023",
+        "Property Address": "539 LAKEWOOD LN UNIT B",
+        "Expiration Date": "3/4/2025",
+        "Property Management Company": "Curtis",
+        "Property Owner Name": "and Joyce Barker BARKER,CURTIS & JOYCE"
+    },
+    {
+        "License Number": "VRR-2024-0372",
+        "Property Address": "540 CIENEGA RD",
+        "Expiration Date": "3/30/2025",
+        "Property Management Company": "Resort",
+        "Property Owner Name": "Town Rentals SHORTEN,TERRY"
+    },
+    {
+        "License Number": "VRR-2024-0444",
+        "Property Address": "540 KILLINGTON WAY",
+        "Expiration Date": "5/2/2025",
+        "Property Management Company": "David",
+        "Property Owner Name": "Humphrey HUMPHREY,DAVID V JR"
+    },
+    {
+        "License Number": "VRR-2023-3115",
+        "Property Address": "541 GEORGIA ST",
+        "Expiration Date": "1/25/2025",
+        "Property Management Company": "Dion",
+        "Property Owner Name": "Development Inc XIX,B B BARON CROIX"
+    },
+    {
+        "License Number": "VRR-2024-2352",
+        "Property Address": "542 EDGEMOOR RD",
+        "Expiration Date": "10/29/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear GRANT,PETER W & VIKKI D"
+    },
+    {
+        "License Number": "VRR-2024-0054",
+        "Property Address": "544 TALMADGE RD",
+        "Expiration Date": "2/25/2025",
+        "Property Management Company": "Mountaintop",
+        "Property Owner Name": "Cabin Company WESTON,ANSON"
+    },
+    {
+        "License Number": "VRR-2024-0520",
+        "Property Address": "544 VISTA LN",
+        "Expiration Date": "4/26/2025",
+        "Property Management Company": "Elise",
+        "Property Owner Name": "Smith Elise Smith"
+    },
+    {
+        "License Number": "VRR-2024-1692",
+        "Property Address": "544 WAYNOKA LN",
+        "Expiration Date": "9/26/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins BURGOS,CARLOS E ALVARENGA"
+    },
+    {
+        "License Number": "VRR-2024-2347",
+        "Property Address": "545 HIGHLAND RD",
+        "Expiration Date": "11/1/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins PADILLA INVESTMENT PROPERTIES INC"
+    },
+    {
+        "License Number": "VRR-2024-2404",
+        "Property Address": "546 LAKEWOOD LN",
+        "Expiration Date": "11/16/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations AULICINO FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1760",
+        "Property Address": "547 CHIPMUNK LN",
+        "Expiration Date": "3/9/2025",
+        "Property Management Company": "Arturo",
+        "Property Owner Name": "Gonzalez LITAS WELKING LLC"
+    },
+    {
+        "License Number": "VRR-2023-3128",
+        "Property Address": "549 EDGEMOOR RD",
+        "Expiration Date": "2/15/2025",
+        "Property Management Company": "Curvan",
+        "Property Owner Name": "and Zhishan Chen with The Taiyuan Chen and Yifang Liu Joint Living Trust Curvan and Zhishan Chen with The Taiyuan Chen and Yifang Liu Joint Living Trust"
+    },
+    {
+        "License Number": "VRR-2024-1890",
+        "Property Address": "550 EDGEMOOR RD",
+        "Expiration Date": "9/27/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins STRIEGEL,JACK & NICOLE"
+    },
+    {
+        "License Number": "VRR-2024-0269",
+        "Property Address": "550 WAYNOKA LN",
+        "Expiration Date": "4/2/2025",
+        "Property Management Company": "Guillermo",
+        "Property Owner Name": "Rodriguez GUILLERMO RODRIGUEZ"
+    },
+    {
+        "License Number": "VRR-2024-1434",
+        "Property Address": "551 CONKLIN RD",
+        "Expiration Date": "8/15/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Property Management & Hospitality LAMATTINA,ROBERT"
+    },
+    {
+        "License Number": "VRR-2024-1135",
+        "Property Address": "551 TIMBER LN",
+        "Expiration Date": "7/27/2025",
+        "Property Management Company": "Sheridan",
+        "Property Owner Name": "Hathaway PAGEY PROPERTIES LLC"
+    },
+    {
+        "License Number": "VRR-2024-0403",
+        "Property Address": "552 CONKLIN RD",
+        "Expiration Date": "4/3/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins RIDENOUR,LAWRENCE LONNIE & PHYLLIS J"
+    },
+    {
+        "License Number": "VRR-2024-0119",
+        "Property Address": "552 HIGHLAND RD",
+        "Expiration Date": "1/18/2025",
+        "Property Management Company": "Ashot",
+        "Property Owner Name": "Manukyan MANUKYAN,ASHOT"
+    },
+    {
+        "License Number": "VRR-2024-0962",
+        "Property Address": "553 LAKEWOOD LN",
+        "Expiration Date": "6/25/2025",
+        "Property Management Company": "Joyce",
+        "Property Owner Name": "McBroom BOUSQUET TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1714",
+        "Property Address": "553 VISTA LN",
+        "Expiration Date": "9/19/2025",
+        "Property Management Company": "Tony",
+        "Property Owner Name": "and Soo Kim KIM, TONY B"
+    },
+    {
+        "License Number": "VRR-2024-1768",
+        "Property Address": "555 BRECKENRIDGE RD",
+        "Expiration Date": "9/21/2025",
+        "Property Management Company": "Quality",
+        "Property Owner Name": "Property Services BREINDEL DANNIS PROPERTIES LLC"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "License Number": "VRR-2024-0172",
+        "Property Address": "41714 SWITZERLAND DR",
+        "Expiration Date": "3/14/2025",
+        "Property Management Company": "Savvy",
+        "Property Owner Name": "Travels, LLC ANYWHERE INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-0337",
+        "Property Address": "41728 SWITZERLAND DR",
+        "Expiration Date": "4/14/2025",
+        "Property Management Company": "SoCal",
+        "Property Owner Name": "Vacations CORPUZ,SAMUEL A & LUCIA"
+    },
+    {
+        "License Number": "VRR-2023-3016",
+        "Property Address": "41730 BROWNIE LN Unit 1",
+        "Expiration Date": "1/31/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Elizabeth Aronson and Kamei Tolba"
+    },
+    {
+        "License Number": "VRR-2024-0532",
+        "Property Address": "41730 Brownie Ln Unit 4",
+        "Expiration Date": "3/17/2025",
+        "Property Management Company": "Sarge",
+        "Property Owner Name": "and Jenny Om THE OM FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2337",
+        "Property Address": "41731 Switzerland Dr.",
+        "Expiration Date": "10/16/2025",
+        "Property Management Company": "Amber",
+        "Property Owner Name": "and Hobert Beman AAH PROPERTIES"
+    },
+    {
+        "License Number": "VRR-2024-1212",
+        "Property Address": "41732 TANAGER DR",
+        "Expiration Date": "8/1/2025",
+        "Property Management Company": "Bryan",
+        "Property Owner Name": "and Michelle Dube Bryan and Michelle Dube"
+    },
+    {
+        "License Number": "VRR-2024-1997",
+        "Property Address": "41733 TANAGER DR",
+        "Expiration Date": "10/17/2025",
+        "Property Management Company": "Donald",
+        "Property Owner Name": "and Michele Vaughn VAUGHN,DONALD W & MICHELE A"
+    },
+    {
+        "License Number": "VRR-2024-2338",
+        "Property Address": "41735 Switzerland Dr",
+        "Expiration Date": "10/16/2025",
+        "Property Management Company": "Amber",
+        "Property Owner Name": "and Hobert Beman AAH PROPERTIES"
+    },
+    {
+        "License Number": "VRR-2024-2561",
+        "Property Address": "41736 MOCKINGBIRD DR",
+        "Expiration Date": "11/24/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations OFARRELL FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1776",
+        "Property Address": "41739 SWAN DR",
+        "Expiration Date": "10/14/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations LAVIGNE,PATRICIA"
+    },
+    {
+        "License Number": "VRR-2024-2466",
+        "Property Address": "41741 SWITZERLAND DR",
+        "Expiration Date": "10/28/2025",
+        "Property Management Company": "Gabriel",
+        "Property Owner Name": "Stubin and Claudia Kimiko GABRIEL ANDREW STUBIN & CLAUDIA KIMIKO STUBIN"
+    },
+    {
+        "License Number": "VRR-2024-1437",
+        "Property Address": "41744 PARK AVE",
+        "Expiration Date": "8/31/2025",
+        "Property Management Company": "Robin",
+        "Property Owner Name": "McNair Elmore & Richard Elmore Robin McNair Elmore & Richard Elmore"
+    },
+    {
+        "License Number": "VRR-2024-0505",
+        "Property Address": "41748 MOCKINGBIRD DR",
+        "Expiration Date": "3/8/2025",
+        "Property Management Company": "Kenneth",
+        "Property Owner Name": "and Teri Earwood EARWOOD K & T 2004 FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1366",
+        "Property Address": "41750 TANAGER DR",
+        "Expiration Date": "9/5/2025",
+        "Property Management Company": "Justin",
+        "Property Owner Name": "and Sarye Smith Justin and Sarye Smith"
+    },
+    {
+        "License Number": "VRR-2024-2088",
+        "Property Address": "41753 TANAGER DR",
+        "Expiration Date": "11/21/2025",
+        "Property Management Company": "Jeffrey",
+        "Property Owner Name": "B Shafer and Shirley J"
+    },
+    {
+        "License Number": "VRR-2024-2429",
+        "Property Address": "41754 Brownie Unit A",
+        "Expiration Date": "10/23/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences JM CABINS LLC"
+    },
+    {
+        "License Number": "VRR-2024-2430",
+        "Property Address": "41754 Brownie Unit B",
+        "Expiration Date": "10/23/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences JM CABINS LLC"
+    },
+    {
+        "License Number": "VRR-2024-1545",
+        "Property Address": "41755 COMSTOCK LN",
+        "Expiration Date": "9/18/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear BOTTOMS,ANDREW"
+    },
+    {
+        "License Number": "VRR-2024-1930",
+        "Property Address": "41755 SWAN DR",
+        "Expiration Date": "10/30/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear STEPHENS,SONDRIA"
+    },
+    {
+        "License Number": "VRR-2024-0989",
+        "Property Address": "41757 BROWNIE LN",
+        "Expiration Date": "6/28/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences FUSCA CHRISTA TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0257",
+        "Property Address": "41764 BROWNIE LN #2",
+        "Expiration Date": "4/4/2025",
+        "Property Management Company": "Trevor",
+        "Property Owner Name": "Neeb NEEB,TREVOR C"
+    },
+    {
+        "License Number": "VRR-2024-1916",
+        "Property Address": "41764 BROWNIE LN Unit 5",
+        "Expiration Date": "10/18/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations AMADO,JOHN M"
+    },
+    {
+        "License Number": "VRR-2024-2050",
+        "Property Address": "41765 MOCKINGBIRD DR",
+        "Expiration Date": "11/21/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Grigor & Siranush Akopyan and Stefan Ulubabyan & Anna Akopyan"
+    },
+    {
+        "License Number": "VRR-2024-2516",
+        "Property Address": "41770 Tanager Dr",
+        "Expiration Date": "10/31/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Ryan and Amanda Goedick"
+    },
+    {
+        "License Number": "VRR-2024-1767",
+        "Property Address": "41771 SWAN DR",
+        "Expiration Date": "10/14/2025",
+        "Property Management Company": "Steven",
+        "Property Owner Name": "and Susana Nadell Steven and Susana Nadell"
+    },
+    {
+        "License Number": "VRR-2024-0808",
+        "Property Address": "41785 SWITZERLAND Unit A",
+        "Expiration Date": "5/22/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences SHIR INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-0809",
+        "Property Address": "41785 SWITZERLAND Unit B",
+        "Expiration Date": "5/22/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences SHIR INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-0810",
+        "Property Address": "41785 SWITZERLAND Unit C",
+        "Expiration Date": "5/22/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences SHIR INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-0811",
+        "Property Address": "41785 SWITZERLAND Unit D",
+        "Expiration Date": "5/22/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences SHIR INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-1770",
+        "Property Address": "41787 SWAN DR",
+        "Expiration Date": "10/8/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations RABIDA,ALEJANDRO"
+    },
+    {
+        "License Number": "VRR-2024-2495",
+        "Property Address": "41790 BROWNIE LN # 1",
+        "Expiration Date": "11/19/2025",
+        "Property Management Company": "RS",
+        "Property Owner Name": "Vacations David and Linda Medley"
+    },
+    {
+        "License Number": "VRR-2024-2498",
+        "Property Address": "41790 BROWNIE LN # 2",
+        "Expiration Date": "11/19/2025",
+        "Property Management Company": "RS",
+        "Property Owner Name": "Vacations MEDLEY,DAVID J"
+    },
+    {
+        "License Number": "VRR-2024-0530",
+        "Property Address": "418 GIBRALTER RD",
+        "Expiration Date": "5/12/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Lakefront Cabins FINE FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2777",
+        "Property Address": "41805 Switzerland Dr Unit 1 AKA 41807 Switzerland)",
+        "Expiration Date": "11/4/2025",
+        "Property Management Company": "Loren",
+        "Property Owner Name": "and Patricia Hafen HAFEN, LOREN J"
+    },
+    {
+        "License Number": "VRR-2024-1009",
+        "Property Address": "41810 ST MORITZ CT",
+        "Expiration Date": "7/16/2025",
+        "Property Management Company": "SoCal",
+        "Property Owner Name": "Vacations CICCHELLI,DANIEL WILLIAM & TARA KATHLEEN"
+    },
+    {
+        "License Number": "VRR-2024-1955",
+        "Property Address": "41813 GOLDEN WEST PL",
+        "Expiration Date": "9/28/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins FLANAGIN FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1078",
+        "Property Address": "41814 BROWNIE LN",
+        "Expiration Date": "7/26/2025",
+        "Property Management Company": "Teany",
+        "Property Owner Name": "Tuon and Mike Ung Teany Tuon and Mike Ung"
+    },
+    {
+        "License Number": "VRR-2024-1675",
+        "Property Address": "41816 SWITZERLAND DR",
+        "Expiration Date": "8/27/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations MCGREW,D D & TRUST- 1996 TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2431",
+        "Property Address": "41821 GARSTIN DR",
+        "Expiration Date": "11/14/2025",
+        "Property Management Company": "Janess",
+        "Property Owner Name": "and Ricardo Mendoza, Jr Janess and Ricardo Mendoza, Jr"
+    },
+    {
+        "License Number": "VRR-2024-0754",
+        "Property Address": "41827 GOLDEN WEST PL",
+        "Expiration Date": "6/14/2025",
+        "Property Management Company": "Kurt",
+        "Property Owner Name": "& Laura Alvarado ALVARADO FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2766",
+        "Property Address": "41829 BROWNIE LN",
+        "Expiration Date": "12/15/2025",
+        "Property Management Company": "Jess",
+        "Property Owner Name": "and Olivia Rodriguez RODRIGUEZ FAMILY TRUST 06"
+    },
+    {
+        "License Number": "VRR-2024-0812",
+        "Property Address": "41829 SWITZERLAND DR",
+        "Expiration Date": "5/22/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences SHIR INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-1759",
+        "Property Address": "41853 BROWNIE LN",
+        "Expiration Date": "10/22/2025",
+        "Property Management Company": "Danny",
+        "Property Owner Name": "Wonn WONN PROPERTIES LLC"
+    },
+    {
+        "License Number": "VRR-2023-3074",
+        "Property Address": "41861 SWITZERLAND DR",
+        "Expiration Date": "1/18/2025",
+        "Property Management Company": "James",
+        "Property Owner Name": "Ipek IPEK,JAMES YAKUP"
+    },
+    {
+        "License Number": "VRR-2024-1216",
+        "Property Address": "41865 SWITZERLAND DR",
+        "Expiration Date": "8/10/2025",
+        "Property Management Company": "Richard",
+        "Property Owner Name": "and Andrea Eggleton Richard and Andrea Eggleton"
+    },
+    {
+        "License Number": "VRR-2024-1200",
+        "Property Address": "41869 BROWNIE LN Unit 1",
+        "Expiration Date": "6/30/2025",
+        "Property Management Company": "Kirolles",
+        "Property Owner Name": "Guirguis KIRO G LLC"
+    },
+    {
+        "License Number": "VRR-2024-1879",
+        "Property Address": "41873 Switzerland Dr",
+        "Expiration Date": "9/3/2025",
+        "Property Management Company": "Steven",
+        "Property Owner Name": "Clare Clare, Steven"
+    },
+    {
+        "License Number": "VRR-2024-2780",
+        "Property Address": "41896 SWITZERLAND DR #1",
+        "Expiration Date": "12/12/2025",
+        "Property Management Company": "David",
+        "Property Owner Name": "and Angela Brown David and Angela Brown"
+    },
+    {
+        "License Number": "VRR-2024-0492",
+        "Property Address": "419 CASTELLA LN",
+        "Expiration Date": "3/30/2025",
+        "Property Management Company": "Rami",
+        "Property Owner Name": "and Hanan Sawalha Rami and Hanan Sawalha"
+    },
+    {
+        "License Number": "VRR-2024-2876",
+        "Property Address": "419 TENNESSEE LN",
+        "Expiration Date": "1/28/2026",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Property Services Martin Quiroz and Maricala Cueva"
+    },
+    {
+        "License Number": "VRR-2024-1409",
+        "Property Address": "41910 EVERGREEN DR",
+        "Expiration Date": "9/5/2025",
+        "Property Management Company": "Vacasa",
+        "Property Owner Name": "GRAND,FREDERICK DAVIS"
+    },
+    {
+        "License Number": "VRR-2024-0617",
+        "Property Address": "41920 EVERGREEN DR",
+        "Expiration Date": "2/18/2025",
+        "Property Management Company": "Travis",
+        "Property Owner Name": "and Eric Perkins SUMMIT CABIN LLC"
+    },
+    {
+        "License Number": "VRR-2024-2829",
+        "Property Address": "41930 MAPLELEAF DR",
+        "Expiration Date": "12/22/2025",
+        "Property Management Company": "David",
+        "Property Owner Name": "and Carrie Isen ISEN FAMILY DECLARATION OF TR 12"
+    },
+    {
+        "License Number": "VRR-2024-2601",
+        "Property Address": "41931 EVERGREEN DR",
+        "Expiration Date": "11/12/2025",
+        "Property Management Company": "Meredith",
+        "Property Owner Name": "Lodging Southern CA LLC KLAUS,WERNER FRIEDRICH"
+    },
+    {
+        "License Number": "VRR-2024-0986",
+        "Property Address": "41932 EVERGREEN DR",
+        "Expiration Date": "6/30/2025",
+        "Property Management Company": "RS",
+        "Property Owner Name": "Vacations DECARLO FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0374",
+        "Property Address": "41935 SWITZERLAND #109",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0978",
+        "Property Address": "41935 SWITZERLAND #3",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-1132",
+        "Property Address": "41935 SWITZERLAND #34",
+        "Expiration Date": "7/28/2025",
+        "Property Management Company": "Vacasa",
+        "Property Owner Name": "TSE,KENNETH & STACY"
+    },
+    {
+        "License Number": "VRR-2024-2128",
+        "Property Address": "41935 SWITZERLAND DR #10",
+        "Expiration Date": "11/20/2025",
+        "Property Management Company": "Jeff",
+        "Property Owner Name": "Middlebrook Real Estate Services WOODWARD FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-2129",
+        "Property Address": "41935 SWITZERLAND DR #101",
+        "Expiration Date": "11/20/2025",
+        "Property Management Company": "Jeff",
+        "Property Owner Name": "Middlebrook Real Estate Services MILLER RUSSELL B FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1429",
+        "Property Address": "41935 SWITZERLAND DR #102",
+        "Expiration Date": "8/2/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations TEMPLIN,DAVID K & JACQUELYNE M"
+    },
+    {
+        "License Number": "VRR-2024-2541",
+        "Property Address": "41935 SWITZERLAND DR #104",
+        "Expiration Date": "11/4/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-1731",
+        "Property Address": "41935 SWITZERLAND DR #105",
+        "Expiration Date": "10/2/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear SOLOMON,ILAN"
+    },
+    {
+        "License Number": "VRR-2024-0123",
+        "Property Address": "41935 SWITZERLAND DR #106",
+        "Expiration Date": "2/13/2025",
+        "Property Management Company": "James,",
+        "Property Owner Name": "Dianne, and David Kaub KAUB FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1115",
+        "Property Address": "41935 SWITZERLAND DR #107",
+        "Expiration Date": "7/1/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear JADE CANYON LLC"
+    },
+    {
+        "License Number": "VRR-2024-0822",
+        "Property Address": "41935 SWITZERLAND DR #108",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0581",
+        "Property Address": "41935 SWITZERLAND DR #11",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc HEINS ROBERT & SYDNEY 2000 TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0394",
+        "Property Address": "41935 SWITZERLAND DR #111",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Summit",
+        "Property Owner Name": "Real Estate Enterprises Inc"
+    },
+    {
+        "License Number": "VRR-2024-2720",
+        "Property Address": "41935 SWITZERLAND DR #113",
+        "Expiration Date": "10/31/2025",
+        "Property Management Company": "Sheng",
+        "Property Owner Name": "Wan Sheng Wan"
+    },
+    {
+        "License Number": "VRR-2024-2817",
+        "Property Address": "41935 Switzerland Dr #116",
+        "Expiration Date": "12/4/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins Laurel and Kevin Crossett"
+    },
+    {
+        "License Number": "VRR-2024-0502",
+        "Property Address": "41935 SWITZERLAND DR #117",
+        "Expiration Date": "4/15/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Robert and Pany Robinson"
+    },
+    {
+        "License Number": "VRR-2024-2520",
+        "Property Address": "41935 SWITZERLAND DR #12",
+        "Expiration Date": "11/16/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2916",
+        "Property Address": "41935 SWITZERLAND DR #120",
+        "Expiration Date": "12/4/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0722",
+        "Property Address": "41935 SWITZERLAND DR #121",
+        "Expiration Date": "4/4/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2237",
+        "Property Address": "41935 SWITZERLAND DR #122",
+        "Expiration Date": "11/2/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear Anthony and Katharine Grieco"
+    },
+    {
+        "License Number": "VRR-2024-0178",
+        "Property Address": "41935 SWITZERLAND DR #124",
+        "Expiration Date": "3/16/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations FISHER,JONATHAN M"
+    },
+    {
+        "License Number": "VRR-2024-1256",
+        "Property Address": "41935 SWITZERLAND DR #125",
+        "Expiration Date": "7/16/2025",
+        "Property Management Company": "Joel",
+        "Property Owner Name": "and Erika Sartain Joel and Erika Sartain"
+    },
+    {
+        "License Number": "VRR-2024-1674",
+        "Property Address": "41935 SWITZERLAND DR #126",
+        "Expiration Date": "10/6/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations GOLDFIELD INVESTMENTS LLC"
+    },
+    {
+        "License Number": "VRR-2024-0363",
+        "Property Address": "41935 SWITZERLAND DR #127",
+        "Expiration Date": "3/22/2025",
+        "Property Management Company": "Pritha",
+        "Property Owner Name": "Sridharan and Joseph Shih Pritha Sridharan and Joseph Shih"
+    },
+    {
+        "License Number": "VRR-2024-0286",
+        "Property Address": "41935 SWITZERLAND DR #15",
+        "Expiration Date": "3/15/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear LEVIN,DANIEL"
+    },
+    {
+        "License Number": "VRR-2024-2521",
+        "Property Address": "41935 SWITZERLAND DR #16",
+        "Expiration Date": "11/12/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2445",
+        "Property Address": "41935 SWITZERLAND DR #2",
+        "Expiration Date": "11/16/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0966",
+        "Property Address": "41935 SWITZERLAND DR #22",
+        "Expiration Date": "5/30/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2919",
+        "Property Address": "41935 SWITZERLAND DR #23",
+        "Expiration Date": "1/4/2026",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0980",
+        "Property Address": "41935 SWITZERLAND DR #24",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-1023",
+        "Property Address": "41935 SWITZERLAND DR #26",
+        "Expiration Date": "4/4/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2503",
+        "Property Address": "41935 Switzerland Dr #28",
+        "Expiration Date": "12/6/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0779",
+        "Property Address": "41935 SWITZERLAND DR #30",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0590",
+        "Property Address": "41935 SWITZERLAND DR #31",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-2472",
+        "Property Address": "41935 SWITZERLAND DR #37",
+        "Expiration Date": "10/31/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0235",
+        "Property Address": "41935 SWITZERLAND DR #44",
+        "Expiration Date": "2/11/2025",
+        "Property Management Company": "Nancy",
+        "Property Owner Name": "Clayton CLAYTON,NANCY L LIVING TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0582",
+        "Property Address": "41935 SWITZERLAND DR #49",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc BALI,JOSEPH & T FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0594",
+        "Property Address": "41935 SWITZERLAND DR #5",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0724",
+        "Property Address": "41935 SWITZERLAND DR #50",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0591",
+        "Property Address": "41935 SWITZERLAND DR #52",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2023-3104",
+        "Property Address": "41935 SWITZERLAND DR #53",
+        "Expiration Date": "2/16/2025",
+        "Property Management Company": "Sage",
+        "Property Owner Name": "Management SOLOMON,ILAN"
+    },
+    {
+        "License Number": "VRR-2024-1922",
+        "Property Address": "41935 SWITZERLAND DR #54",
+        "Expiration Date": "10/9/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear FOSTER FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0589",
+        "Property Address": "41935 SWITZERLAND DR #57",
+        "Expiration Date": "3/19/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-0991",
+        "Property Address": "41935 SWITZERLAND DR #60",
+        "Expiration Date": "3/20/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    },
+    {
+        "License Number": "VRR-2024-1003",
+        "Property Address": "41935 SWITZERLAND DR #61",
+        "Expiration Date": "6/22/2025",
+        "Property Management Company": "Escape",
+        "Property Owner Name": "for All Seasons, Inc"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "License Number": "VRR-2024-1337",
+        "Property Address": "42598 FALCON AVE",
+        "Expiration Date": "8/28/2025",
+        "Property Management Company": "Marius",
+        "Property Owner Name": "and Adriana Magda Marius and Adriana Magda"
+    },
+    {
+        "License Number": "VRR-2024-0330",
+        "Property Address": "42598 PEREGRINE AVE",
+        "Expiration Date": "3/22/2025",
+        "Property Management Company": "Diana",
+        "Property Owner Name": "X Cao and Si Hyun Pae Diana X Cao and Si Hyun Pae"
+    },
+    {
+        "License Number": "VRR-2024-2668",
+        "Property Address": "42599 FOX FARM RD",
+        "Expiration Date": "12/14/2025",
+        "Property Management Company": "Matthew",
+        "Property Owner Name": "Yoakum and Rebecca Zamolo Fox Farm Real Estate Trust"
+    },
+    {
+        "License Number": "VRR-2024-2366",
+        "Property Address": "42599 GOLD RUSH DR",
+        "Expiration Date": "11/15/2025",
+        "Property Management Company": "Meredith",
+        "Property Owner Name": "Lodging Southern CA LLC VIEIRA,PAULO J"
+    },
+    {
+        "License Number": "VRR-2024-2558",
+        "Property Address": "426 CONKLIN RD",
+        "Expiration Date": "12/5/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear BEAR CENTRAL LLC"
+    },
+    {
+        "License Number": "VRR-2024-2597",
+        "Property Address": "426 EAGLE LAKE PL",
+        "Expiration Date": "11/7/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear SCHAUMANN LIVING TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1031",
+        "Property Address": "426 GEORGIA ST",
+        "Expiration Date": "6/14/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Property Services SMITH,MICHAEL & JENNIFER A"
+    },
+    {
+        "License Number": "VRR-2024-1987",
+        "Property Address": "426 STARLIGHT CIR",
+        "Expiration Date": "10/19/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear James and Monica Italia"
+    },
+    {
+        "License Number": "VRR-2024-0223",
+        "Property Address": "42601 WILLOW AVE",
+        "Expiration Date": "2/9/2025",
+        "Property Management Company": "Emilie",
+        "Property Owner Name": "Halpern CHALET HAL LLC"
+    },
+    {
+        "License Number": "VRR-2024-2330",
+        "Property Address": "42605 AVALON RD",
+        "Expiration Date": "12/7/2025",
+        "Property Management Company": "Crissy",
+        "Property Owner Name": "and Sang Yim ALIGN HOLDINGS LLC"
+    },
+    {
+        "License Number": "VRR-2024-1695",
+        "Property Address": "42606 AVALON RD",
+        "Expiration Date": "8/26/2025",
+        "Property Management Company": "Raymond",
+        "Property Owner Name": "and Sheri Cros AVALON CROS LLC"
+    },
+    {
+        "License Number": "VRR-2024-1985",
+        "Property Address": "42609 FALCON AVE",
+        "Expiration Date": "11/15/2025",
+        "Property Management Company": "Jeffrey",
+        "Property Owner Name": "and Anika Young YOUNG,JEFFREY"
+    },
+    {
+        "License Number": "VRR-2024-2853",
+        "Property Address": "42611 PEREGRINE AVE",
+        "Expiration Date": "12/7/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Vishal and Sapna Singh"
+    },
+    {
+        "License Number": "VRR-2024-2019",
+        "Property Address": "42612 La Placida Ave",
+        "Expiration Date": "9/18/2025",
+        "Property Management Company": "Awesome",
+        "Property Owner Name": "Vacation Rentals Lawrence Family Trust"
+    },
+    {
+        "License Number": "VRR-2024-0652",
+        "Property Address": "42613 LA PLACIDA AVE",
+        "Expiration Date": "4/19/2025",
+        "Property Management Company": "Pamela",
+        "Property Owner Name": "J Taylor PAMELA,J TAYLOR REV LIVI TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0241",
+        "Property Address": "42615 ALTA VISTA AVE",
+        "Expiration Date": "2/1/2025",
+        "Property Management Company": "Rafael",
+        "Property Owner Name": "and Henrik Aibkhanov Rafael and Henrik Aibkhanov"
+    },
+    {
+        "License Number": "VRR-2024-1525",
+        "Property Address": "42619 PEREGRINE AVE",
+        "Expiration Date": "9/27/2025",
+        "Property Management Company": "William",
+        "Property Owner Name": "Okruch LINE MASTERS INVESTING LLC"
+    },
+    {
+        "License Number": "VRR-2024-2092",
+        "Property Address": "42621 FALCON AVE",
+        "Expiration Date": "10/26/2025",
+        "Property Management Company": "David",
+        "Property Owner Name": "Brantley DEVANEY BRANTLEY,DAVID"
+    },
+    {
+        "License Number": "VRR-2024-2411",
+        "Property Address": "42621 LA PLACIDA AVE",
+        "Expiration Date": "10/20/2025",
+        "Property Management Company": "Michael",
+        "Property Owner Name": "Carr and Amy Imamura BEAT HOLDINGS LLC"
+    },
+    {
+        "License Number": "VRR-2024-1723",
+        "Property Address": "42624 LA CERENA AVE",
+        "Expiration Date": "10/15/2025",
+        "Property Management Company": "Bear",
+        "Property Owner Name": "Valley Concierge GAYE IRENE A TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1942",
+        "Property Address": "42625 ALTA VISTA AVE",
+        "Expiration Date": "11/6/2025",
+        "Property Management Company": "Cristina",
+        "Property Owner Name": "Dam DAM FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0093",
+        "Property Address": "42625 AVALON RD",
+        "Expiration Date": "2/11/2025",
+        "Property Management Company": "Christopher",
+        "Property Owner Name": "Asher and Alison Rubino CHRISTOPHER,ASHER & ALISON,RUBINO"
+    },
+    {
+        "License Number": "VRR-2024-0686",
+        "Property Address": "42625 LA PLACIDA AVE",
+        "Expiration Date": "5/5/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Mathew and Walter Cruz"
+    },
+    {
+        "License Number": "VRR-2024-1275",
+        "Property Address": "42627 AVALON RD",
+        "Expiration Date": "6/27/2025",
+        "Property Management Company": "Mountaintop",
+        "Property Owner Name": "Cabin Company Fernando Hernandez and Perla Alejandre"
+    },
+    {
+        "License Number": "VRR-2024-2060",
+        "Property Address": "42628 ALTA VISTA AVE",
+        "Expiration Date": "10/14/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations SMITH,SCOTT MICHAEL"
+    },
+    {
+        "License Number": "VRR-2024-2292",
+        "Property Address": "42628 JUNIPER DR",
+        "Expiration Date": "11/30/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear LACHANCE,MARC & JOANN D"
+    },
+    {
+        "License Number": "VRR-2024-2008",
+        "Property Address": "42628 LA CERENA AVE",
+        "Expiration Date": "10/4/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins LINGARD,ROBERT W & MONICA L"
+    },
+    {
+        "License Number": "VRR-2024-2053",
+        "Property Address": "42628 SONOMA DR",
+        "Expiration Date": "11/14/2025",
+        "Property Management Company": "Vacasa",
+        "Property Owner Name": "MORROW,TR"
+    },
+    {
+        "License Number": "VRR-2024-0138",
+        "Property Address": "42629 PEREGRINE AVE",
+        "Expiration Date": "3/18/2025",
+        "Property Management Company": "Ryan",
+        "Property Owner Name": "Da Rosa DA ROSA,RYAN L"
+    },
+    {
+        "License Number": "VRR-2024-1475",
+        "Property Address": "42631 CEDAR AVE",
+        "Expiration Date": "9/13/2025",
+        "Property Management Company": "Craig",
+        "Property Owner Name": "and Mercedes Glendenning Craig and Mercedes Glendenning"
+    },
+    {
+        "License Number": "VRR-2024-1847",
+        "Property Address": "42633 PEREGRINE AVE",
+        "Expiration Date": "10/19/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear SUBAT,YASAMIN B & NAZANIN K"
+    },
+    {
+        "License Number": "VRR-2024-1061",
+        "Property Address": "42634 SONOMA DR",
+        "Expiration Date": "5/23/2025",
+        "Property Management Company": "Wander",
+        "Property Owner Name": "Vacation Rentals KARNANI,LAKSHYA and KAUR, GURNEEM"
+    },
+    {
+        "License Number": "VRR-2024-1262",
+        "Property Address": "42636 FALCON AVE",
+        "Expiration Date": "7/1/2025",
+        "Property Management Company": "At-homeness",
+        "Property Owner Name": "Vacation Rentals TROY D MACCUBBIN"
+    },
+    {
+        "License Number": "VRR-2024-2843",
+        "Property Address": "42637 Falcon Ave",
+        "Expiration Date": "12/5/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Charome Kaocharoen"
+    },
+    {
+        "License Number": "VRR-2024-1485",
+        "Property Address": "42638 MOONRIDGE RD",
+        "Expiration Date": "9/12/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Boarding David and Mayngan Stone"
+    },
+    {
+        "License Number": "VRR-2024-1126",
+        "Property Address": "42639 ALTA VISTA AVE",
+        "Expiration Date": "6/14/2025",
+        "Property Management Company": "Lishu",
+        "Property Owner Name": "Li and Zhongmin Fan Lishu Li and Zhongmin Fan"
+    },
+    {
+        "License Number": "VRR-2024-0501",
+        "Property Address": "42639 CEDAR AVE",
+        "Expiration Date": "4/12/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Kenneth and Carol Crosby, Amy Cash"
+    },
+    {
+        "License Number": "VRR-2024-1561",
+        "Property Address": "42639 PEREGRINE AVE",
+        "Expiration Date": "9/7/2025",
+        "Property Management Company": "Robinhood",
+        "Property Owner Name": "Management Gabriel Gonzalez and Andrea Estrada"
+    },
+    {
+        "License Number": "VRR-2024-0364",
+        "Property Address": "42640 JUNIPER DR",
+        "Expiration Date": "3/25/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Lakefront Cabins FINETE JOSE F S & J C TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0050",
+        "Property Address": "42641 CEDAR AVE",
+        "Expiration Date": "2/17/2025",
+        "Property Management Company": "Wesley",
+        "Property Owner Name": "Freitas and Katrice Ponzo FREITAS,WESLEY"
+    },
+    {
+        "License Number": "VRR-2024-1082",
+        "Property Address": "42641 JUNIPER DR",
+        "Expiration Date": "7/17/2025",
+        "Property Management Company": "Bear",
+        "Property Owner Name": "Valley Concierge SANCHEZ,MICHAEL CHRISTOPHER"
+    },
+    {
+        "License Number": "VRR-2024-0735",
+        "Property Address": "42642 CEDAR AVE",
+        "Expiration Date": "4/18/2025",
+        "Property Management Company": "Sentinel",
+        "Property Owner Name": "Property Management HOWARD,ERIN"
+    },
+    {
+        "License Number": "VRR-2024-0002",
+        "Property Address": "42642 GOLD RUSH DR",
+        "Expiration Date": "2/25/2025",
+        "Property Management Company": "AvantStay",
+        "Property Owner Name": "RAMIREZ,JAIME A"
+    },
+    {
+        "License Number": "VRR-2024-1495",
+        "Property Address": "42644 PEREGRINE AVE",
+        "Expiration Date": "8/13/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins PRESCOTT,ROBERT D & JAMIE L"
+    },
+    {
+        "License Number": "VRR-2024-2755",
+        "Property Address": "42645 LA CERENA AVE",
+        "Expiration Date": "11/30/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Boarding BEWLEY,CHARLES MARTIN"
+    },
+    {
+        "License Number": "VRR-2024-1917",
+        "Property Address": "42645 LA PLACIDA AVE",
+        "Expiration Date": "10/12/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations BRYANT,KURT F"
+    },
+    {
+        "License Number": "VRR-2024-1859",
+        "Property Address": "42646 CEDAR AVE",
+        "Expiration Date": "10/24/2025",
+        "Property Management Company": "Payman",
+        "Property Owner Name": "and Pardis Farrokhyar FARROKHYAR,PAYMAN & PARDIS"
+    },
+    {
+        "License Number": "VRR-2024-0410",
+        "Property Address": "42646 CONSTELLATION DR",
+        "Expiration Date": "4/24/2025",
+        "Property Management Company": "Ofir",
+        "Property Owner Name": "Dahan DAHAN,OFIR"
+    },
+    {
+        "License Number": "VRR-2024-2405",
+        "Property Address": "42646 LA CERENA AVE",
+        "Expiration Date": "11/12/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations Michael and Linda Bryan"
+    },
+    {
+        "License Number": "VRR-2024-0306",
+        "Property Address": "42646 PEREGRINE AVE",
+        "Expiration Date": "3/9/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins RICHARD HINER"
+    },
+    {
+        "License Number": "VRR-2024-0346",
+        "Property Address": "42648 CEDAR AVE",
+        "Expiration Date": "4/19/2025",
+        "Property Management Company": "Julie",
+        "Property Owner Name": "and Craig Allred Julie and Craig Allred"
+    },
+    {
+        "License Number": "VRR-2024-1322",
+        "Property Address": "42648 FALCON AVE",
+        "Expiration Date": "8/17/2025",
+        "Property Management Company": "Jeb",
+        "Property Owner Name": "Middlebrook and Mui Lian Cheun JEB A MIDDLEBROOK & MUI LIAN CHEUN"
+    },
+    {
+        "License Number": "VRR-2024-1785",
+        "Property Address": "42648 SONOMA DR",
+        "Expiration Date": "8/4/2025",
+        "Property Management Company": "Village",
+        "Property Owner Name": "Reservations SIMMONS,SUMMER & DOWNS, DEVON"
+    },
+    {
+        "License Number": "VRR-2024-1556",
+        "Property Address": "42649 CONSTELLATION DR",
+        "Expiration Date": "9/27/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear DEVOS,JAMES CHARLES & BRANDI"
+    },
+    {
+        "License Number": "VRR-2024-0105",
+        "Property Address": "42650 CEDAR AVE",
+        "Expiration Date": "3/3/2025",
+        "Property Management Company": "Michael",
+        "Property Owner Name": "and Nicole Lucas Michael and Nicole Lucas"
+    },
+    {
+        "License Number": "VRR-2024-1908",
+        "Property Address": "42650 LA PLACIDA AVE",
+        "Expiration Date": "9/16/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins GRUMMER,B J & J L LIVING TRUST"
+    },
+    {
+        "License Number": "VRR-2024-1288",
+        "Property Address": "42651 FALCON AVE",
+        "Expiration Date": "8/11/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear ZEPEDA FAMILY TRUST"
+    },
+    {
+        "License Number": "VRR-2024-0213",
+        "Property Address": "42651 LA PLACIDA AVE (Front Unit Only)",
+        "Expiration Date": "3/22/2025",
+        "Property Management Company": "Aaron",
+        "Property Owner Name": "and Kim Radman Aaron and Kim Radman"
+    },
+    {
+        "License Number": "VRR-2024-1159",
+        "Property Address": "42653 CEDAR AVE",
+        "Expiration Date": "7/21/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear NELSON,SCOTT N"
+    },
+    {
+        "License Number": "VRR-2024-2025",
+        "Property Address": "42653 COUGAR RD",
+        "Expiration Date": "8/30/2025",
+        "Property Management Company": "Sky",
+        "Property Owner Name": "High Cabins CASSIDY,KATHLEEN MARY"
+    },
+    {
+        "License Number": "VRR-2024-1177",
+        "Property Address": "42654 ALTA VISTA AVE",
+        "Expiration Date": "7/1/2025",
+        "Property Management Company": "William",
+        "Property Owner Name": "and Jennifer Chan CZ CALIFORNIA LIVING LLC"
+    },
+    {
+        "License Number": "VRR-2024-0083",
+        "Property Address": "42655 PEREGRINE AVE",
+        "Expiration Date": "2/11/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations PAYNE,CARLTON & VICTORIA"
+    },
+    {
+        "License Number": "VRR-2024-1489",
+        "Property Address": "42657 Cedar Ave.",
+        "Expiration Date": "7/23/2025",
+        "Property Management Company": "Hermineh",
+        "Property Owner Name": "Torosyan Hermineh Torosyan"
+    },
+    {
+        "License Number": "VRR-2024-1799",
+        "Property Address": "42658 LA CERENA AVE",
+        "Expiration Date": "10/2/2025",
+        "Property Management Company": "Daniel",
+        "Property Owner Name": "and Jordyn Felico Daniel and Jordyn Felico"
+    },
+    {
+        "License Number": "VRR-2024-1935",
+        "Property Address": "42660 LA PLACIDA AVE",
+        "Expiration Date": "11/6/2025",
+        "Property Management Company": "John",
+        "Property Owner Name": "and Rhiannon Roeder John and Rhiannon Roeder"
+    },
+    {
+        "License Number": "VRR-2024-0644",
+        "Property Address": "42662 JUNIPER DR",
+        "Expiration Date": "5/13/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear CHAMBERS,ROBERT"
+    },
+    {
+        "License Number": "VRR-2024-1134",
+        "Property Address": "42663 LA PLACIDA AVE",
+        "Expiration Date": "8/2/2025",
+        "Property Management Company": "Michael",
+        "Property Owner Name": "and Ann Rorwick Michael and Ann Rorwick"
+    },
+    {
+        "License Number": "VRR-2024-0207",
+        "Property Address": "42665 CEDAR AVE",
+        "Expiration Date": "3/17/2025",
+        "Property Management Company": "Kent",
+        "Property Owner Name": "& Priscilla Pingrey PINGREY,KENT"
+    },
+    {
+        "License Number": "VRR-2024-0731",
+        "Property Address": "42665 PEREGRINE AVE",
+        "Expiration Date": "5/20/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations NISSEN,TONY LEE & DEBRA LYNN"
+    },
+    {
+        "License Number": "VRR-2024-2256",
+        "Property Address": "42668 ALTA VISTA AVE",
+        "Expiration Date": "11/7/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear ESTRADA,LUIS HUMBERTO"
+    },
+    {
+        "License Number": "VRR-2024-0531",
+        "Property Address": "42668 COUGAR RD",
+        "Expiration Date": "5/10/2025",
+        "Property Management Company": "Jennifer",
+        "Property Owner Name": "Winter The Winterland Trust"
+    },
+    {
+        "License Number": "VRR-2024-0422",
+        "Property Address": "42669 FALCON AVE",
+        "Expiration Date": "2/28/2025",
+        "Property Management Company": "Express",
+        "Property Owner Name": "Getaway John and Jeriann McKay"
+    },
+    {
+        "License Number": "VRR-2024-2835",
+        "Property Address": "42670 LA PLACIDA AVE",
+        "Expiration Date": "12/18/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Bruce and Deborah Franzen"
+    },
+    {
+        "License Number": "VRR-2024-0871",
+        "Property Address": "42671 ALTA VISTA AVE",
+        "Expiration Date": "6/7/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Ramin, Wahid, and Ferozan Saadat"
+    },
+    {
+        "License Number": "VRR-2024-1016",
+        "Property Address": "42671 La Placida Ave",
+        "Expiration Date": "5/8/2025",
+        "Property Management Company": "Michelle",
+        "Property Owner Name": "Ji Michelle Ji"
+    },
+    {
+        "License Number": "VRR-2024-2492",
+        "Property Address": "42672 JUNIPER DR",
+        "Expiration Date": "11/23/2025",
+        "Property Management Company": "Nicole",
+        "Property Owner Name": "Christensen and Bryan Galati Nicole Christensen and Bryan Galati"
+    },
+    {
+        "License Number": "VRR-2024-1240",
+        "Property Address": "42672 LA CERENA AVE",
+        "Expiration Date": "6/24/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Thomas Sandoval & Deborah Donahue-Sandoval"
+    },
+    {
+        "License Number": "VRR-2023-3147",
+        "Property Address": "42673 JUNIPER DR",
+        "Expiration Date": "1/29/2025",
+        "Property Management Company": "Meredith",
+        "Property Owner Name": "Lodging Southern CA, LLC URTNOWSKI,MATTHEW B"
+    },
+    {
+        "License Number": "VRR-2024-2011",
+        "Property Address": "42673 PEREGRINE AVE",
+        "Expiration Date": "10/10/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins DE JESUS GUTIERREZ,JOSE"
+    },
+    {
+        "License Number": "VRR-2024-2733",
+        "Property Address": "42674 CEDAR AVE",
+        "Expiration Date": "1/13/2026",
+        "Property Management Company": "Amir",
+        "Property Owner Name": "Javadi JAVADI,AMIR A"
+    },
+    {
+        "License Number": "VRR-2024-2001",
+        "Property Address": "42674 PEREGRINE AVE",
+        "Expiration Date": "11/1/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Vacations BROWN,ROBERT J"
+    },
+    {
+        "License Number": "VRR-2024-1740",
+        "Property Address": "42675 FALCON AVE",
+        "Expiration Date": "9/16/2025",
+        "Property Management Company": "Derek",
+        "Property Owner Name": "and Mindy Plonka Derek and Mindy Plonka"
+    },
+    {
+        "License Number": "VRR-2024-0656",
+        "Property Address": "42675 LA PLACIDA AVE",
+        "Expiration Date": "3/30/2025",
+        "Property Management Company": "John",
+        "Property Owner Name": "and Jennifer Anderson ANDERSON,JOHN DAVID"
+    },
+    {
+        "License Number": "VRR-2024-0356",
+        "Property Address": "42675 MOONRIDGE RD",
+        "Expiration Date": "2/8/2025",
+        "Property Management Company": "Tuan",
+        "Property Owner Name": "Do and Jamie Cheung Tuan Do and Jamie Cheung"
+    },
+    {
+        "License Number": "VRR-2024-0863",
+        "Property Address": "42676 LA PLACIDA AVE",
+        "Expiration Date": "5/1/2025",
+        "Property Management Company": "Bhavdeep",
+        "Property Owner Name": "and Mandeep Singh Bhavdeep and Mandeep Singh"
+    },
+    {
+        "License Number": "VRR-2024-0405",
+        "Property Address": "42677 CEDAR AVE",
+        "Expiration Date": "4/1/2025",
+        "Property Management Company": "Kathryn",
+        "Property Owner Name": "and Jeffrey Kirschbaum KIRSCHBAUM,KATHRYN ANN & JEFFREY ROBERT"
+    },
+    {
+        "License Number": "VRR-2024-2737",
+        "Property Address": "42678 COUGAR RD",
+        "Expiration Date": "10/21/2025",
+        "Property Management Company": "Kristen",
+        "Property Owner Name": "Gerami GERAMI,KRISTEN JOYCE"
+    },
+    {
+        "License Number": "VRR-2024-1822",
+        "Property Address": "42678 La Cerena Ave.",
+        "Expiration Date": "8/29/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins Wesley and Joanne Wade"
+    },
+    {
+        "License Number": "VRR-2024-1982",
+        "Property Address": "42679 FALCON AVE",
+        "Expiration Date": "9/29/2025",
+        "Property Management Company": "Dorian",
+        "Property Owner Name": "Grado GRADO PROPERTIES LLC"
+    },
+    {
+        "License Number": "VRR-2024-1313",
+        "Property Address": "42679 LA PLACIDA AVE",
+        "Expiration Date": "8/30/2025",
+        "Property Management Company": "Joseph",
+        "Property Owner Name": "Gamgene and Qing Hua Dong Joseph Gamgene and Qing Hua Dong"
+    },
+    {
+        "License Number": "VRR-2023-3136",
+        "Property Address": "42680 WILLOW AVE",
+        "Expiration Date": "1/24/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Concierge JONES,ANMARIE"
+    },
+    {
+        "License Number": "VRR-2024-0916",
+        "Property Address": "42683 FALCON AVE",
+        "Expiration Date": "6/14/2025",
+        "Property Management Company": "Boyang",
+        "Property Owner Name": "Liu and Bingua Chai BOYANG LIU, BINGHUA CHAI"
+    },
+    {
+        "License Number": "VRR-2024-1643",
+        "Property Address": "42684 TIMBERLINE TRL",
+        "Expiration Date": "10/11/2025",
+        "Property Management Company": "SoCal",
+        "Property Owner Name": "Vacations QUIROGA,EDWARD M"
+    },
+    {
+        "License Number": "VRR-2024-2579",
+        "Property Address": "42685 JUNIPER DR",
+        "Expiration Date": "12/8/2025",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Cool Cabins STAR & GEM PROPERTIES LLC"
+    },
+    {
+        "License Number": "VRR-2024-1540",
+        "Property Address": "42687 HAUPSTRASSE DR",
+        "Expiration Date": "9/11/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear GRACE KASAMATSU"
+    },
+    {
+        "License Number": "VRR-2024-0370",
+        "Property Address": "42690 COUGAR RD",
+        "Expiration Date": "4/17/2025",
+        "Property Management Company": "Destination",
+        "Property Owner Name": "Big Bear LANDEROS,ERICA"
+    },
+    {
+        "License Number": "VRR-2024-0757",
+        "Property Address": "42690 EDGEHILL PL",
+        "Expiration Date": "5/5/2025",
+        "Property Management Company": "Alejandro",
+        "Property Owner Name": "Ortiz Ortiz Family Trust"
+    },
+    {
+        "License Number": "VRR-2024-1370",
+        "Property Address": "42692 TIMBERLINE TRL",
+        "Expiration Date": "8/28/2025",
+        "Property Management Company": "SoCal",
+        "Property Owner Name": "Vacations TIMBER LODGE LLC"
+    },
+    {
+        "License Number": "VRR-2024-2346",
+        "Property Address": "42696 COUGAR RD",
+        "Expiration Date": "11/20/2025",
+        "Property Management Company": "Leslie",
+        "Property Owner Name": "Pino PINO,LESLIE H"
+    },
+    {
+        "License Number": "VRR-2024-2809",
+        "Property Address": "42697 ALTA VISTA AVE",
+        "Expiration Date": "1/6/2026",
+        "Property Management Company": "Big",
+        "Property Owner Name": "Bear Experiences Catherine Commander and Joseph Bolletino"
+    }
+]
