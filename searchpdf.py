@@ -9,6 +9,13 @@ def search_json(file_path, query:str,page=1, page_size=5):
     results = [line for line in data if all(word in line.lower() for word in query_words)]
 
     total_results = len(results)
+
+    if not results:
+        return {"error": "No results found"}
+    if total_results > 1:
+        return {"error": "No results found"}
+
+    
     total_pages = (total_results + page_size - 1) // page_size  # Calculate total pages
     
     if page < 1 or page > total_pages:
