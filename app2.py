@@ -30,7 +30,7 @@ st.markdown("""
 
 # Header
 st.title("✨ Listing Validator")
-st.markdown("### Validate listings against From the Approved List")
+st.markdown("### Validate listings From the Approved List")
 
 # Create two columns for input
 col1, col2 = st.columns([1, 2])
